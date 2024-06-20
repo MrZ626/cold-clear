@@ -47,3 +47,4 @@ jobs:
         path: |
           target/release/cc-client
           cc-client/res/
+
